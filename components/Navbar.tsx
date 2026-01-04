@@ -31,6 +31,9 @@ export default function Navbar() {
           <Link href="/mentors" className="text-black hover:text-blue-600 transition">
             Mentors
           </Link>
+          <Link href="/about" className="text-black hover:text-blue-600 transition">
+            About Us
+          </Link>
 
           <Link href="/contact" className="text-black hover:text-blue-600 transition">
             Contact
