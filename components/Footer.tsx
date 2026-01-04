@@ -20,7 +20,7 @@ export default function Footer() {
 
         {/* Links */}
         <div className="animate-footer-item delay-1">
-          <h3 className="font-semibold text-lg mb-2">Quick Links</h3>
+          <h3 className="text-2xl font-extrabold mt-3   text-gray-900">Quick Links</h3>
           <ul className="space-y-2 text-gray-600">
             <li><a href="/" className="hover:text-blue-600 transition hover:translate-x-1 inline-block">Home</a></li>
             <li><a href="/courses" className="hover:text-blue-600 transition hover:translate-x-1 inline-block">Courses</a></li>
@@ -32,7 +32,9 @@ export default function Footer() {
 
         {/* Support */}
         <div className="animate-footer-item delay-2">
-          <h3 className="font-semibold text-lg mb-2">Support</h3>
+          <h3 className="text-2xl font-extrabold mt-3   text-gray-900">
+            Support
+          </h3>
           <ul className="space-y-2 text-gray-600">
             <li className="hover:text-blue-600 transition hover:translate-x-1 cursor-pointer">Help & FAQs</li>
             <li className="hover:text-blue-600 transition hover:translate-x-1 cursor-pointer">Payment Support</li>
@@ -44,7 +46,9 @@ export default function Footer() {
 
         {/* Contact */}
         <div className="animate-footer-item delay-3">
-          <h3 className="font-semibold text-lg mb-2">Contact</h3>
+          <h3 className="text-2xl font-extrabold mt-3   text-gray-900">
+            Contact
+          </h3>
           <p className="text-gray-600 text-sm">
             📧 Email: <span className="text-blue-600 font-semibold">sharmd7930@gmail.com</span>
           </p>
